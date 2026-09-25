@@ -1,0 +1,26 @@
+{
+  "title": "Kth Smallest Element in a Sorted Matrix",
+  "titleSlug": "kth-smallest-element-in-a-sorted-matrix",
+  "frontendQuestionId": "378",
+  "leetcodeUrl": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Matrix"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-25T05:00:52.878Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-25T05:00:54.907Z"
+}
