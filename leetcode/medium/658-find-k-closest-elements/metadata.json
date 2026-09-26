@@ -1,0 +1,27 @@
+{
+  "title": "Find K Closest Elements",
+  "titleSlug": "find-k-closest-elements",
+  "frontendQuestionId": "658",
+  "leetcodeUrl": "https://leetcode.com/problems/find-k-closest-elements/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Binary Search",
+    "Sliding Window",
+    "Sorting",
+    "Heap (Priority Queue)"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-26T08:19:59.314Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-26T08:20:01.241Z"
+}
