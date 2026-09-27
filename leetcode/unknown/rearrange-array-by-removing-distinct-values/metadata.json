@@ -1,0 +1,20 @@
+{
+  "title": "rearrange-array-by-removing-distinct-values",
+  "titleSlug": "rearrange-array-by-removing-distinct-values",
+  "frontendQuestionId": null,
+  "leetcodeUrl": "https://leetcode.com/problems/rearrange-array-by-removing-distinct-values/",
+  "difficulty": "Unknown",
+  "topics": [],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-27T03:00:51.771Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "HINT",
+  "helpLabel": "Needed hint",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-27T03:00:56.761Z"
+}
