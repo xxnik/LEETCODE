@@ -1,4 +1,4 @@
-  int val;
+*     int val;
  *     ListNode *next;
  *     ListNode() : val(0), next(nullptr) {}
  *     ListNode(int x) : val(x), next(nullptr) {}
@@ -16,7 +16,7 @@ public:
             prev=temp;
             temp=front;
         }
-        head=temp;
-        return prev;
+        head=prev;
+        return head;
     }
 };
