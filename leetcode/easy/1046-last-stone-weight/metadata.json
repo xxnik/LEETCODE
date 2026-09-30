@@ -1,0 +1,23 @@
+{
+  "title": "Last Stone Weight",
+  "titleSlug": "last-stone-weight",
+  "frontendQuestionId": "1046",
+  "leetcodeUrl": "https://leetcode.com/problems/last-stone-weight/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Heap (Priority Queue)"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-09-30T11:25:59.393Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-09-30T11:26:02.335Z"
+}
