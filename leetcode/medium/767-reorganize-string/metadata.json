@@ -1,0 +1,27 @@
+{
+  "title": "Reorganize String",
+  "titleSlug": "reorganize-string",
+  "frontendQuestionId": "767",
+  "leetcodeUrl": "https://leetcode.com/problems/reorganize-string/",
+  "difficulty": "Medium",
+  "topics": [
+    "Hash Table",
+    "String",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Counting"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-01T02:46:24.778Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-01T02:46:32.497Z"
+}
