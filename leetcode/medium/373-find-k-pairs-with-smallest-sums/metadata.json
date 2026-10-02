@@ -1,0 +1,23 @@
+{
+  "title": "Find K Pairs with Smallest Sums",
+  "titleSlug": "find-k-pairs-with-smallest-sums",
+  "frontendQuestionId": "373",
+  "leetcodeUrl": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Heap (Priority Queue)"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-02T05:39:45.954Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-02T05:39:48.078Z"
+}
