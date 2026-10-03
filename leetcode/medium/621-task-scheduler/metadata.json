@@ -1,0 +1,27 @@
+{
+  "title": "Task Scheduler",
+  "titleSlug": "task-scheduler",
+  "frontendQuestionId": "621",
+  "leetcodeUrl": "https://leetcode.com/problems/task-scheduler/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Hash Table",
+    "Greedy",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Counting"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-03T12:39:46.793Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-03T12:39:49.493Z"
+}
