@@ -1,0 +1,23 @@
+starting at k
+        for (int k = 0; k < n; k++) {
+
+            int before = (k == 0 ? 0 : s[k - 1] - '0');
+            int cur = s[k] - '0';
+            int last = s[n - 1] - '0';
+
+            int newCost = total;
+
+            // Remove old edge:
+            // before -> cur
+            newCost -= dist(before, cur);
+
+            // Add new edge:
+            // before -> last
+            newCost += dist(before, last);
+
+            ans = min(ans, newCost);
+        }
+
+        return ans;
+    }
+};
