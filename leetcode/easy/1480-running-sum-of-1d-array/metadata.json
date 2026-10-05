@@ -1,0 +1,23 @@
+{
+  "title": "Running Sum of 1d Array",
+  "titleSlug": "running-sum-of-1d-array",
+  "frontendQuestionId": "1480",
+  "leetcodeUrl": "https://leetcode.com/problems/running-sum-of-1d-array/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-05T16:16:26.128Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-05T16:16:28.218Z"
+}
