@@ -1,0 +1,23 @@
+{
+  "title": "Richest Customer Wealth",
+  "titleSlug": "richest-customer-wealth",
+  "frontendQuestionId": "1672",
+  "leetcodeUrl": "https://leetcode.com/problems/richest-customer-wealth/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Matrix"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-06T13:47:01.140Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-06T13:47:03.993Z"
+}
