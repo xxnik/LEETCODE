@@ -1,0 +1,22 @@
+{
+  "title": "Shuffle the Array",
+  "titleSlug": "shuffle-the-array",
+  "frontendQuestionId": "1470",
+  "leetcodeUrl": "https://leetcode.com/problems/shuffle-the-array/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-08T04:28:54.581Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-08T04:28:56.490Z"
+}
