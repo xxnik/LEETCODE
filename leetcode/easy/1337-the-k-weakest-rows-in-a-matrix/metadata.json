@@ -1,0 +1,26 @@
+{
+  "title": "The K Weakest Rows in a Matrix",
+  "titleSlug": "the-k-weakest-rows-in-a-matrix",
+  "frontendQuestionId": "1337",
+  "leetcodeUrl": "https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Sorting",
+    "Heap (Priority Queue)",
+    "Matrix"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-10T09:59:52.408Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-10T10:00:14.830Z"
+}
