@@ -1,0 +1,25 @@
+class Solution {
+public:
+    string maxSumOfSquares(int num, int sum) {
+        string s="";
+        if(sum<1||sum>9*num){
+            return s;
+        }
+        int count=0;
+        while(count<num){
+            if(sum>=9){
+                s+='9';
+                sum-=9;
+            }
+            else if(sum>0){
+                s+=char('0'+sum);
+                sum=0;
+            }
+            else{
+                s+='0';
+            }
+            count++;
+        }
+        return s;
+    }
+};
