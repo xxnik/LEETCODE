@@ -1,0 +1,12 @@
+[right - k]));
+            }
+
+            // Check whether the window is an anagram
+            if (right >= k - 1 && window == need) {
+                ans.push_back(right - k + 1);
+            }
+        }
+
+        return ans;
+    }
+};
