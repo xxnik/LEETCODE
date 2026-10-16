@@ -1,0 +1,23 @@
+{
+  "title": "Count Vowel Substrings of a String",
+  "titleSlug": "count-vowel-substrings-of-a-string",
+  "frontendQuestionId": "2062",
+  "leetcodeUrl": "https://leetcode.com/problems/count-vowel-substrings-of-a-string/",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-16T03:01:37.690Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "EXTERNAL",
+  "helpLabel": "Used external help",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-16T03:01:42.946Z"
+}
