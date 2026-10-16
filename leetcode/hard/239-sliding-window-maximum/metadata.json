@@ -1,0 +1,27 @@
+{
+  "title": "Sliding Window Maximum",
+  "titleSlug": "sliding-window-maximum",
+  "frontendQuestionId": "239",
+  "leetcodeUrl": "https://leetcode.com/problems/sliding-window-maximum/",
+  "difficulty": "Hard",
+  "topics": [
+    "Array",
+    "Queue",
+    "Sliding Window",
+    "Heap (Priority Queue)",
+    "Monotonic Queue",
+    "Range Minimum/Maximum Query"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-16T05:36:37.605Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "EXTERNAL",
+  "helpLabel": "Used external help",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-16T05:36:41.387Z"
+}
