@@ -1,0 +1,23 @@
+{
+  "title": "Find Pivot Index",
+  "titleSlug": "find-pivot-index",
+  "frontendQuestionId": "724",
+  "leetcodeUrl": "https://leetcode.com/problems/find-pivot-index/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Prefix Sum"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-17T13:09:48.123Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-17T13:09:51.955Z"
+}
