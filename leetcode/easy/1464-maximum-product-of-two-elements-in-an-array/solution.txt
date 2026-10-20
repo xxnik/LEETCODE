@@ -1,0 +1,15 @@
+class Solution {
+public:
+    int maxProduct(vector<int>& nums) {
+        priority_queue<int> mh;
+        for(int i=0;i<nums.size()-1;i++){
+            for(int j=i+1;j<nums.size();j++){
+                int a=nums[i];
+                int b=nums[j];
+                int x=(a - 1) * (b- 1);
+                mh.push(x);
+            }
+        }
+        return mh.top();
+    }
+};
