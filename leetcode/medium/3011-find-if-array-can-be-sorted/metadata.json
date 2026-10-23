@@ -1,0 +1,24 @@
+{
+  "title": "Find if Array Can Be Sorted",
+  "titleSlug": "find-if-array-can-be-sorted",
+  "frontendQuestionId": "3011",
+  "leetcodeUrl": "https://leetcode.com/problems/find-if-array-can-be-sorted/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Bit Manipulation",
+    "Sorting"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-23T01:57:35.618Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-23T01:58:07.032Z"
+}
