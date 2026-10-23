@@ -1,0 +1,25 @@
+{
+  "title": "Longest Palindromic Substring",
+  "titleSlug": "longest-palindromic-substring",
+  "frontendQuestionId": "5",
+  "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+  "difficulty": "Medium",
+  "topics": [
+    "Two Pointers",
+    "String",
+    "Dynamic Programming",
+    "Manacher"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-23T03:43:41.817Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "EXTERNAL",
+  "helpLabel": "Used external help",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-23T03:43:45.782Z"
+}

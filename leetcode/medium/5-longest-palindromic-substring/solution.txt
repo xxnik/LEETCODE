@@ -1,0 +1,25 @@
+t])
+                return false;
+
+            left++;
+            right--;
+        }
+        return true;
+    }
+
+    string longestPalindrome(string s) {
+        int n = s.size();
+
+        for (int len = n; len >= 1; len--) {
+            for (int left = 0; left + len <= n; left++) {
+                int right = left + len - 1;
+
+                if (isPalindrome(s, left, right)) {
+                    return s.substr(left, len);
+                }
+            }
+        }
+
+        return "";
+    }
+};
