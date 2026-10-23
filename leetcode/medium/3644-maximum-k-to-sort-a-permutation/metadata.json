@@ -1,0 +1,23 @@
+{
+  "title": "Maximum K to Sort a Permutation",
+  "titleSlug": "maximum-k-to-sort-a-permutation",
+  "frontendQuestionId": "3644",
+  "leetcodeUrl": "https://leetcode.com/problems/maximum-k-to-sort-a-permutation/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Bit Manipulation"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-23T00:53:52.598Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "NONE",
+  "helpLabel": "Solved solo",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-23T00:53:55.666Z"
+}
