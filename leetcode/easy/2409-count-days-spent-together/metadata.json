@@ -1,0 +1,23 @@
+{
+  "title": "Count Days Spent Together",
+  "titleSlug": "count-days-spent-together",
+  "frontendQuestionId": "2409",
+  "leetcodeUrl": "https://leetcode.com/problems/count-days-spent-together/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "String"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-24T01:41:11.843Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "HINT",
+  "helpLabel": "Needed hint",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-24T01:41:23.185Z"
+}

@@ -1,0 +1,21 @@
+
+            }
+            return total;
+            
+        
+    }
+    int countDaysTogether(string arriveAlice, string leaveAlice, string arriveBob, string leaveBob) {
+        vector<int> arr={31,28,31,30,31,30,31,31,30,31,30,31};
+        int a=convert(arriveAlice,arr);
+        int b=convert(leaveAlice,arr);
+        int c=convert(arriveBob,arr);
+        int d=convert(leaveBob,arr);
+
+        int start=max(a,c);
+        int end=min(b,d);
+
+        if(start>end)return 0;
+
+        return end-start+1;
+    }
+};
