@@ -1,0 +1,29 @@
+class Solution {
+public:
+   set<vector<int>> st;
+    void recurse(int i,vector<int>& nums,vector<int>& arr){
+        int n=nums.size();
+        if(i>=nums.size()){
+            st.insert(arr);
+            return ;
+        }
+        arr.push_back(nums[i]);
+        recurse(i+1,nums,arr);
+        arr.pop_back();
+        recurse(i+1,nums,arr);
+
+    }
+    vector<vector<int>> subsetsWithDup(vector<int>& nums) {
+        st.clear();
+        sort(nums.begin(), nums.end());
+        vector<int> temp;
+        int i=0;
+        vector<vector<int>>res;
+        recurse(i,nums,temp);
+        for(auto it:st){
+            res.push_back(it);
+        }
+        
+        return res;
+    }
+};
