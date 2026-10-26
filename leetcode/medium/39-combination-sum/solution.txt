@@ -1,0 +1,24 @@
+t target,int sum,vector<vector<int>>& res,vector<int>& candidates){
+        if(sum==target){
+            res.push_back(arr);
+            return;
+        }
+        if (i == candidates.size() || sum > target) {
+            return;
+        }
+        arr.push_back(candidates[i]);
+        
+        cSum(arr,i,target,sum+candidates[i],res,candidates);
+        arr.pop_back();
+        cSum(arr,i+1,target,sum,res,candidates);
+    }
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        vector<int>arr;
+        vector<vector<int>> res;
+        int i=0;
+        int sum=0;
+        cSum( arr,i,target,sum,res,candidates);
+        return res;
+
+    }
+};

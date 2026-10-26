@@ -1,0 +1,23 @@
+{
+  "title": "Combination Sum",
+  "titleSlug": "combination-sum",
+  "frontendQuestionId": "39",
+  "leetcodeUrl": "https://leetcode.com/problems/combination-sum/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Backtracking"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-10-26T05:00:17.915Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "HINT",
+  "helpLabel": "Needed hint",
+  "focusSeconds": null,
+  "syncedAt": "2026-10-26T05:00:23.512Z"
+}
